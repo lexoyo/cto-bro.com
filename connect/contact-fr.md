@@ -15,6 +15,12 @@ Footer: Footer FR
 layout: contact
 ---
 
+# CTO Bro est maintenant de l'histoire ancienne
+
+Nous nous sommes tournés vers d'autres aventures professionnelles chez [Internet 2000, studio d'éco-conception web](https://internet2000.net/) et [Shipfix, écosystème de prise de décision basé sur l'IA](https://veson.com/products/shipfix/).
+
+---
+
 # Contacter CTO Bro
 
 Vous avez une question en rapport avec le coaching ? Vous êtes un partenaire potentiel ? Un client ?
