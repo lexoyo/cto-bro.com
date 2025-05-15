@@ -21,7 +21,7 @@ Nous nous sommes tournés vers d'autres aventures professionnelles chez [Interne
 
 ---
 
-# Contacter CTO Bro
+## Contacter CTO Bro
 
 Vous avez une question en rapport avec le coaching ? Vous êtes un partenaire potentiel ? Un client ?
 
